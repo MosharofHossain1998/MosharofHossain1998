@@ -9,13 +9,11 @@
 </p>
 
 
-<p align="center">
-  🔭 I’m currently working on this page. <br>
-  🌱 I’m currently learning Flutter Mobile App Development <br>
-  👯 I’m looking to collaborate on GitHub <br>
-  💬 Ask me about Flutter, React, Mobile App Development <br>
-  📫 How to reach me: mosharof.it.uits@gmail.com
-</p>
+- 🔭 I’m currently working on this page.
+- 🌱 I’m currently learning Flutter Mobile App Development
+- 👯 I’m looking to collaborate on GitHub
+- 💬 Ask me about Flutter, React, Mobile App Development
+- 📫 How to reach me: mosharof.it.uits@gmail.com
 
 # Skills I Have
 
