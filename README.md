@@ -27,12 +27,6 @@ I am Mosharof Hossain. I'm currently learning Mobile App Development. As mobile 
 ## Web Services/API:
 Strong knowledge in RESTful web services/API.
 
-## Architecture Design:
-Experience with architecture design concepts and techniques. Ability to communicate and evangelize those concepts to a broad-based team.
-
-## Unit Testing:
-Good experience with unit testing.
-
 ## Problem Solving:
 Strong problem-solving skills.
 
