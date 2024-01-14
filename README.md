@@ -4,16 +4,23 @@
   I am Mosharof Hossain. I'm currently learning Mobile App Development. As a mobile app developer, I use Flutter, which is a framework for cross-platform native app development, and I really love it.
 </p>
 
-<p align="center">
-  <img src="https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638961025section2-GIF.png" alt="A Passionate Flutter Mobile App Developer From Bangladesh.">
-</p>
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+
+  <!-- First child: Text content -->
+  <div style="flex: 1; text-align: center;">
+    <ul>
+      <li>🔭 I’m currently working on this page.</li>
+    </ul>
+  </div>
+
+  <!-- Second child: Image -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638961025section2-GIF.png" alt="A Passionate Flutter Mobile App Developer From Bangladesh." width="300">
+  </div>
+
+</div>
 
 
-- 🔭 I’m currently working on this page.
-- 🌱 I’m currently learning Flutter Mobile App Development
-- 👯 I’m looking to collaborate on GitHub
-- 💬 Ask me about Flutter, React, Mobile App Development
-- 📫 How to reach me: mosharof.it.uits@gmail.com
 
 # Skills I Have
 
