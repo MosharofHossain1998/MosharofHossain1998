@@ -4,7 +4,7 @@
   I am Mosharof Hossain. I'm currently learning Mobile App Development. As a mobile app developer, I use Flutter, which is a framework for cross-platform native app development, and I really love it.
 </p>
 
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; flex-direction: row;">
 
   <!-- First child: Text content -->
   <div style="flex: 1; text-align: center;">
@@ -19,6 +19,7 @@
   </div>
 
 </div>
+
 
 
 
