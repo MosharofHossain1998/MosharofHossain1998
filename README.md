@@ -5,7 +5,6 @@
 </p>
 
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
-<row>
 
   <!-- First child: Text content -->
   <div style="flex: 1; text-align: center;">
@@ -18,9 +17,9 @@
   <div style="flex: 1; text-align: center;">
     <img src="https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638961025section2-GIF.png" alt="A Passionate Flutter Mobile App Developer From Bangladesh." width="300">
   </div>
-  </row>
 
 </div>
+
 
 
 
