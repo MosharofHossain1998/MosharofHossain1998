@@ -10,54 +10,37 @@ I am Mosharof Hossain. I'm currently learning Mobile App Development. As mobile 
 - 💬 Ask me about Flutter, React, Mobile App Development 
 - 📫 How to reach me: mosharof.it.uits@gmail.com 
 
-<html>
-    <head>
-        <title>Skills I Have</title>
-    </head>
-<body>
-    <h1>Skills I Have</h1>
+# Skills I Have
 
-    <h2>Languages:</h2>
-    <ul>
-        <li>C++</li>
-        <li>Dart</li>
-        <li>OOP</li>
-    </ul>
+## Languages:
+- C++
+- Dart
+- OOP
 
-    <h2>Frameworks:</h2>
-    <ul>
-        <li>Flutter</li>
-    </ul>
+## Frameworks:
+- Flutter
 
-    <h2>Databases:</h2>
-    <ul>
-        <li>MySQL</li>
-        <li>SQL Server</li>
+## Databases:
+- MySQL
+- SQL Server
 
-    </ul>
+## Web Services/API:
+Strong knowledge in RESTful web services/API.
 
-    <h2>Web Services/API:</h2>
-    <p>Strong knowledge in RESTful web services/API.</p>
+## Architecture Design:
+Experience with architecture design concepts and techniques. Ability to communicate and evangelize those concepts to a broad-based team.
 
-    <h2>Architecture Design:</h2>
-    <p>Experience with architecture design concepts and techniques. Ability to communicate and evangelize those concepts to a broad-based team.</p>
+## Unit Testing:
+Good experience with unit testing.
 
-    <h2>Unit Testing:</h2>
-    <p>Good experience with unit testing.</p>
+## Problem Solving:
+Strong problem-solving skills.
 
-    <h2>Problem Solving:</h2>
-    <p>Strong problem-solving skills.</p>
+## Version Control:
+Proper knowledge of GitHub.
 
-    <h2>Version Control:</h2>
-    <p>Proper knowledge of GitHub.</p>
-
-    <h2>Business Analysis:</h2>
-    <p>Knowledgeable about business analysis.</p>
-
-    <!-- Add additional sections as needed -->
-
-</body>
-</html>
+## Business Analysis:
+Knowledgeable about business analysis.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MosharofHossain1998)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mosharof-hossain-3ba757220//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009283811598)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://web.whatsapp.com/)  
