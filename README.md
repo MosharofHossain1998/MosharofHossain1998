@@ -1,6 +1,6 @@
-### Hi there 👋, I am Mosharof Hossain
-#### Mobile App Developer
 ![Mobile App Developer](https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638961025section2-GIF.png)
+## Hi there 👋, I am Mosharof Hossain
+#### Mobile App Developer
 
 I am Mosharof Hossain. I'm currently learning Mobile App Development. As mobile app developer I use Flutter which is a framework for cross platform native app development and I really love it.
 
@@ -18,8 +18,6 @@ Skills: C++ / HTML / CSS / OOP / Dart / Flutter / React
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MosharofHossain1998)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MosharofHossain1998&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/MosharofHossain1998)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MosharofHossain1998)  
 
