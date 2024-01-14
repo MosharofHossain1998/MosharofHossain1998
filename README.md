@@ -4,23 +4,19 @@
   I am Mosharof Hossain. I'm currently learning Mobile App Development. As a mobile app developer, I use Flutter, which is a framework for cross-platform native app development, and I really love it.
 </p>
 
-<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; flex-direction: row;">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGhrcGpkc2dkdDV3a2FwYTZiYmJvazFwcW12amQzaW1jcTNuYjE5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated GIF" width="400" align="right">
 
-  <row>
-  <div style="flex: 1; text-align: center;">
-    <ul>
-      <li>🔭 I’m currently working on this page.</li>
-    </ul>
-  </div>
-  </row>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=damntam&label=Profile%20views&color=0e75b6&style=flat" alt="damntam" /> </p>
 
-  </row>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638961025section2-GIF.png" alt="A Passionate Flutter Mobile App Developer From Bangladesh." width="300">
-  </div>
-  </row>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-</div>
+- 🌱 I’m currently learning *Flutter*
+
+- 💬 Ask me about *Flutter,React,Mobile Applications*
+
+- 📫 How to reach me *tanvirmoon33@gmail.com*
+
+- ⚡ Fun fact *I love to Develop Mobile Applications*
 
 
 
