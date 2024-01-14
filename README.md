@@ -14,10 +14,13 @@
 
 - 💬 Ask me about *Flutter,React,Mobile Applications*
 
-- 📫 How to reach me *tanvirmoon33@gmail.com*
+- 📫 How to reach me *mosharof.it.uits@gmail.com*
 
 - ⚡ Fun fact *I love to Develop Mobile Applications*
 
+  <h3 align="left">Connect with me:</h3>
+  
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MosharofHossain1998)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mosharof-hossain-3ba757220//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009283811598)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://web.whatsapp.com/)  
 
 
 
@@ -48,8 +51,6 @@ Proper knowledge of GitHub.
 ## Business Analysis:
 Knowledgeable about business analysis.
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MosharofHossain1998)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mosharof-hossain-3ba757220//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009283811598)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://web.whatsapp.com/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MosharofHossain1998)](https://github.com/anuraghazra/github-readme-stats)
 
