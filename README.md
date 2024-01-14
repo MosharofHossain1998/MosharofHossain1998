@@ -6,17 +6,19 @@
 
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; flex-direction: row;">
 
-  <!-- First child: Text content -->
+  <row>
   <div style="flex: 1; text-align: center;">
     <ul>
       <li>🔭 I’m currently working on this page.</li>
     </ul>
   </div>
+  </row>
 
-  <!-- Second child: Image -->
+  </row>
   <div style="flex: 1; text-align: center;">
     <img src="https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638961025section2-GIF.png" alt="A Passionate Flutter Mobile App Developer From Bangladesh." width="300">
   </div>
+  </row>
 
 </div>
 
