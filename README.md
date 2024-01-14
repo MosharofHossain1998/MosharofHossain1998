@@ -3,7 +3,7 @@
 <p>
   I am Mosharof Hossain. I'm currently learning Mobile App Development. As a mobile app developer, I use Flutter, which is a framework for cross-platform native app development, and I really love it.
 </p>
-img src="https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638961025section2-GIF.png" alt="A Passionate Flutter Mobile App Developer From Bangladesh." align="right">
+<img src="https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638961025section2-GIF.png" alt="A Passionate Flutter Mobile App Developer From Bangladesh." align="right">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=damntam&label=Profile%20views&color=0e75b6&style=flat" alt="damntam" /> </p>
 
