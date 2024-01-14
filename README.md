@@ -4,13 +4,11 @@
 #### A Passionate Flutter Mobile App Developer From Bangladesh.
 I am Mosharof Hossain. I'm currently learning Mobile App Development. As mobile app developer I use Flutter which is a framework for cross platform native app development and I really love it.
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
+<html>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Skills and Experience</title>
+    <title>Skills I Have</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -30,15 +28,14 @@ I am Mosharof Hossain. I'm currently learning Mobile App Development. As mobile 
             margin-bottom: 10px;
         }
     </style>
-</head>
 <body>
     <h1>Skills I Have</h1>
 
     <h2>Languages:</h2>
     <ul>
-        <li>C</li>
+        <li>C++</li>
         <li>Dart</li>
-        <li>Go</li>
+        <li>OOP</li>
     </ul>
 
     <h2>Frameworks:</h2>
@@ -50,8 +47,7 @@ I am Mosharof Hossain. I'm currently learning Mobile App Development. As mobile 
     <ul>
         <li>MySQL</li>
         <li>SQL Server</li>
-        <li>SQLite</li>
-        <li>PostgreSQL</li>
+
     </ul>
 
     <h2>Web Services/API:</h2>
@@ -65,9 +61,6 @@ I am Mosharof Hossain. I'm currently learning Mobile App Development. As mobile 
 
     <h2>Problem Solving:</h2>
     <p>Strong problem-solving skills.</p>
-
-    <h2>UI/UX Design:</h2>
-    <p>Proficient in Adobe XD & Figma for UI/UX design.</p>
 
     <h2>Version Control:</h2>
     <p>Proper knowledge of GitHub.</p>
