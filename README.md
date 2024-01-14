@@ -1,15 +1,26 @@
-<h1 align="center">Hi there 👋, I am Mosharof Hossain</h1>
-<h2 align="center">A Passionate Flutter Mobile App Developer From Bangladesh.</h2>
-I am Mosharof Hossain. I'm currently learning Mobile App Development. As a mobile app developer, I use Flutter, which is a framework for cross-platform native app development, and I really love it.
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+  <!-- First child: Text content -->
+  <div style="flex: 1; text-align: center;">
+    <h1>Hi there 👋, I am Mosharof Hossain</h1>
+    <p>A Passionate Flutter Mobile App Developer From Bangladesh.</p>
+    <p>
+      I am Mosharof Hossain. I'm currently learning Mobile App Development. As a mobile app developer, I use Flutter, which is a framework for cross-platform native app development, and I really love it.
+    </p>
+    <ul>
+      <li>🔭 I’m currently working on this page.</li>
+      <li>🌱 I’m currently learning Flutter Mobile App Development</li>
+      <li>👯 I’m looking to collaborate on GitHub</li>
+      <li>💬 Ask me about Flutter, React, Mobile App Development</li>
+      <li>📫 How to reach me: mosharof.it.uits@gmail.com</li>
+    </ul>
+  </div>
 
+  <!-- Second child: Image -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638961025section2-GIF.png" alt="A Passionate Flutter Mobile App Developer From Bangladesh." width="300">
+  </div>
+</div>
 
-![A Passionate Flutter Mobile App Developer From Bangladesh.](https://uploads.sitepoint.com/wp-content/uploads/2021/12/1638961025section2-GIF.png)
-
-- 🔭 I’m currently working on this page.
-- 🌱 I’m currently learning Flutter Mobile App Development
-- 👯 I’m looking to collaborate on GitHub
-- 💬 Ask me about Flutter, React, Mobile App Development
-- 📫 How to reach me: mosharof.it.uits@gmail.com
 
 # Skills I Have
 
