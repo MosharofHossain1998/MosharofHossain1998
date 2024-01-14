@@ -4,30 +4,16 @@
 #### A Passionate Flutter Mobile App Developer From Bangladesh.
 I am Mosharof Hossain. I'm currently learning Mobile App Development. As mobile app developer I use Flutter which is a framework for cross platform native app development and I really love it.
 
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Flutter Mobile App Development 
+- 👯 I’m looking to collaborate on github 
+- 💬 Ask me about Flutter, React, Mobile App Development 
+- 📫 How to reach me: mosharof.it.uits@gmail.com 
+
 <html>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Skills I Have</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            margin: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        h2 {
-            color: #555;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-    </style>
+    <head>
+        <title>Skills I Have</title>
+    </head>
 <body>
     <h1>Skills I Have</h1>
 
@@ -72,12 +58,6 @@ I am Mosharof Hossain. I'm currently learning Mobile App Development. As mobile 
 
 </body>
 </html>
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Flutter Mobile App Development 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Flutter, React, Mobile App Development 
-- 📫 How to reach me: mosharof.it.uits@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MosharofHossain1998)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mosharof-hossain-3ba757220//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009283811598)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://web.whatsapp.com/)  
