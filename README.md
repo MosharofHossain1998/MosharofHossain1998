@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning *Flutter*
 
-- 💬 Ask me about *Flutter,React,Mobile Applications*
+- 💬 Ask me about *Flutter,OOP,Mobile Applications*
 
 - 📫 How to reach me *mosharof.it.uits@gmail.com*
 
